@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrisztianBernat
-- 👀 I’m interested in backend development
+- 👀 I’m interested in app/game development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking for someone who could help me sometimes with a few questions
 - 📫 You can reach me on discord @serapith
